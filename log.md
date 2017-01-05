@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 3: January 5, 2017
+    
+**Today's Progress**: 
+Since I found no time slot for a quiet hour of coding on the WeatherApp, I decided to do some Codewars during my 
+morning and evening commute. Since I go to work by train for ~40 minutes per direction, there is at least the possibility
+to stay on track by completing some challenges there.
+
+**Thoughts:** I really like codewars - especially because you can compare your code to the solutions of other coders as 
+soon as you finished a kata.
+ 
+
 ### Day 2: January 4, 2017
 
 **Today's Progress**: 
