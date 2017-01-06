@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 4: January 6, 2017
+    
+**Today's Progress**: 
+* Added a input field for specific location search
+* Added Values for wind speed, humidity and air pressure
+* Changed labels for min/max temperature, humidity, air pressure and wind speed to icons
+
+**Thoughts:** The app is still ugly but the main functionality is almost finished now. Next steps will be 
+the big icon for the current weather state and overall styling. 
+
+**Link to work:** [WeatherMeter](https://github.com/areiterer/react-weathermeter)
+
 ### Day 3: January 5, 2017
     
 **Today's Progress**: 
