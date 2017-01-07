@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 5: January 7, 2017
+    
+**Today's Progress**: 
+Added Bootstrap to WeatherMeter and tried to get everything in a nice shape - well this did not work out like I
+wanted it to. So I will have to work on it again tomorrow. 
+
+**Thoughts:** I am really bad at designing things - but I want to finish WeatherMeter with a quite good design - 
+ so I may put a little bit more effort in it than I planned to do. 
+
 ### Day 4: January 6, 2017
     
 **Today's Progress**: 
