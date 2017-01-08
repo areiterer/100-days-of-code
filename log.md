@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+### Day 6: January 8, 2017
+    
+**Today's Progress**: 
+* Played around with CSS until I got a useful design for mobile and desktop UI
+* background color changes by cloudyness (provided by OpenWeatherMap API)
+* weather icon changes depending on the weather - used [Meteocons](http://www.alessioatzeni.com/meteocons/) for that.
+
+**Thoughts:** I really suck in designing things :) But slowly I get a feeling where to get ideas from and how to build semi
+good looking UI without being a graphics designer. 
+At this point I label the WeatherMeter project as finished but will work on it for improvements or extensions if something 
+comes to my mind.
+
+At this point I try to find a new project for the next days - maybe something with React Native and a NodeJS backend.
+
+
+**Link to work:** [WeatherMeter](https://github.com/areiterer/react-weathermeter)
+
 ### Day 5: January 7, 2017
     
 **Today's Progress**: 
