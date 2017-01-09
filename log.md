@@ -1,5 +1,18 @@
 # 100 Days Of Code - Log
 
+### Day 7: January 9, 2017
+    
+**Today's Progress**: 
+* Decision to develop a Workout Logging App with React Native
+* Worked on the requirements
+* Initiated a react project and set up a new GIT project
+* Tested and tried React Native and debugging on the smart phone
+* Played around with the [KitchenSink](https://github.com/GeekyAnts/NativeBase-KitchenSink) app from [NativeBase](http://nativebase.io/) 
+* Started to build a new button component - will check this in separately as soon as I can show something.
+
+**Link to work:** [WeatherMeter](https://github.com/areiterer/react-weathermeter)
+
+
 ### Day 6: January 8, 2017
     
 **Today's Progress**: 
