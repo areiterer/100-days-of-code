@@ -4,7 +4,7 @@
     
 **Today's Progress**: 
 * Created a sample app with react native to rebuild the "Add" button from the google mail / google calendar app. 
-![ButtonControl](img/ButtonControl.gif)
+See a screenshot of the [ButtonControl](img/ButtonControl.gif)
 
 
 ### Day 7: January 9, 2017
