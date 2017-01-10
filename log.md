@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 8: January 10, 2017
+    
+**Today's Progress**: 
+* Created a sample app with react native to rebuild the "Add" button from the google mail / google calendar app. 
+![ButtonControl](img/ButtonControl.gif)
+
+
 ### Day 7: January 9, 2017
     
 **Today's Progress**: 
@@ -10,7 +17,7 @@
 * Played around with the [KitchenSink](https://github.com/GeekyAnts/NativeBase-KitchenSink) app from [NativeBase](http://nativebase.io/) 
 * Started to build a new button component - will check this in separately as soon as I can show something.
 
-**Link to work:** [WeatherMeter](https://github.com/areiterer/react-weathermeter)
+**Link to work:** [WeatherMeter](https://github.com/areiterer/wolo)
 
 
 ### Day 6: January 8, 2017
