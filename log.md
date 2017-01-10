@@ -8,6 +8,11 @@ functionality they provide. Also I want to get an overview of all possible trans
 * Created a sample app with react native to rebuild the "Add" button from the google mail / google calendar app. 
 ![ButtonControl](img/ButtonControl.gif)
 
+* Started with coding the screen for the activity history. Learned much about ListView and flex when styling the basic 
+design.
+
+**Link to work:** [WorkoutLog](https://github.com/areiterer/wolo)
+
 
 ### Day 7: January 9, 2017
     
@@ -19,7 +24,7 @@ functionality they provide. Also I want to get an overview of all possible trans
 * Played around with the [KitchenSink](https://github.com/GeekyAnts/NativeBase-KitchenSink) app from [NativeBase](http://nativebase.io/) 
 * Started to build a new button component - will check this in separately as soon as I can show something.
 
-**Link to work:** [WeatherMeter](https://github.com/areiterer/wolo)
+**Link to work:** [WorkoutLog](https://github.com/areiterer/wolo)
 
 
 ### Day 6: January 8, 2017
