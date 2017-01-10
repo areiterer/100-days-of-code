@@ -3,6 +3,8 @@
 ### Day 8: January 10, 2017
     
 **Today's Progress**: 
+* More work on the design of Wolo - still on paper. I want to have an idea of how all the screens look like and which 
+functionality they provide. Also I want to get an overview of all possible transitions between the screens.
 * Created a sample app with react native to rebuild the "Add" button from the google mail / google calendar app. 
 ![ButtonControl](img/ButtonControl.gif)
 
