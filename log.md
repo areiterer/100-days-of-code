@@ -1,5 +1,20 @@
 # 100 Days Of Code - Log
 
+### Day 9: January 11, 2017
+    
+**Today's Progress**: 
+* Added an "Add Activity" button - similar to the one I created yesterday - to the app. Since I just need one add 
+function, it does not display more buttons on click. Instead it just calls a passed function.
+* Did some recherche for React Natives Navigator. 
+ 
+**Thoughts:** Today there was not much outcome to show because I spent more time on recherche for the Navigator.
+It is necessary to display different Screens (or "Scenes") and it behaves different to the Router I know from React.
+Navigator keeps a stack of Scenes which are pushed and popped - I found out how to do this, but I still don't know 
+how to define a different Scene to be rendered. Tomorrow I want to finish the Add-Scene - this means I have to find
+out how to push the "Add" Scene to the stack and render the form.  
+
+**Link to work:** [WorkoutLog](https://github.com/areiterer/wolo)
+
 ### Day 8: January 10, 2017
     
 **Today's Progress**: 
