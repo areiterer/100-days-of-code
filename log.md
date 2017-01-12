@@ -3,6 +3,23 @@
 ### Day 9: January 11, 2017
     
 **Today's Progress**: 
+* Added Navigator to provide functionality to change scenes (Screens/Pages are called scenes in React Native)
+* Added placeholder Components for "Statistics" and "Add new Activity"
+* Built navigation routes between the three scenes.
+ 
+**Thoughts:** Took me some time to understand how Navigator is working but in the end it was quite easy 
+for my basic routes. 
+I had some help from a very good blog post on [Medium](https://medium.com/react-native-training/react-native-navigator-navigating-like-a-pro-in-react-native-3cb1b6dc1e30#.jvy9qjbpp)
+where I could find everything I needed. Tomorrow I will replace the blue buttons with a navigation bar. I just put the 
+buttons in because I wanted to test it as quick as possible. 
+
+**Link to work:** 
+* [WorkoutLog](https://github.com/areiterer/wolo)
+* [See it in action](http://www.giphy.com/gifs/l3q2Rnk6bdvAzJ7KU)
+
+### Day 9: January 11, 2017
+    
+**Today's Progress**: 
 * Added an "Add Activity" button - similar to the one I created yesterday - to the app. Since I just need one add 
 function, it does not display more buttons on click. Instead it just calls a passed function.
 * Did some recherche for React Natives Navigator. 
