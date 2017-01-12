@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 9: January 11, 2017
+### Day 10: January 12, 2017
     
 **Today's Progress**: 
 * Added Navigator to provide functionality to change scenes (Screens/Pages are called scenes in React Native)
