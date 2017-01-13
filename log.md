@@ -27,8 +27,7 @@ of 30dp from the bottom end of the screen. I'm not sure if it is okay to increas
 something for tomorrow.
 
 
-**Link to work:** Since I did not check in, just a GIPHY 
-![Screen](http://www.giphy.com/gifs/l3q2FvS4gnKakJMDS)
+**Link to work:** Since I did not check in, just a giphy [Screen Video](http://www.giphy.com/gifs/l3q2FvS4gnKakJMDS)
 
 
 ### Day 10: January 12, 2017
