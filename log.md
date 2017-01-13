@@ -1,5 +1,36 @@
 # 100 Days Of Code - Log
 
+### Day 11: January 13, 2017
+    
+**Today's Progress**: 
+* Added a tabbed view for the main scenes. Here are the components I tried:
+  * [react-native-tab-view](https://github.com/react-native-community/react-native-tab-view): I liked it because of the
+  smooth animations and the possibility to switch the tab bar between the top and the bottom (read about this in "thoughts") 
+  * [react-native-scrollable-tab-view](https://github.com/skv-headless/react-native-scrollable-tab-view): I think I stick with it 
+  because it is easier to use (less code) and it should fit my needs. We will see when it comes to icons in the tab bar.  
+* Replaced the AddButton Component with [react-native-action-button](https://github.com/mastermoo/react-native-action-button)
+which is a fully functional "Floating Action Button" which is compliant to the Material Design Guidelines.
+* Decided to use [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) because it is cross platform 
+compatible and it consists of a bunch of awesome icons.
+
+**Thoughts:** Today I spent much time on trying tab bars and reading the [Material Design Guidelines](https://material.io/guidelines/components/bottom-navigation.html).
+The latter was also the reason why I changed the tab bar to the bottom. According to the guidelines, bottom navigation
+is the preferred navigation pattern between top-level scenes. On the contrary, tabs are used to group content into different views.
+While I tried to find a control for a bottom navigation bar, I found out that a tab bar at the bottom will do the job.
+During my research I also found another tab control, which I tested afterwards.
+
+I won't check in my work today. It is not finished and I am still facing issues:
+* I'm not sure which tab control suits best
+* I did not find out how to combine the Floating Action Button correctly with a Bottom Navigation Bar: 
+According to the guidelines, the Bottom Navigation Bar has to have 56dp height. The FAB seems to have an offset
+of 30dp from the bottom end of the screen. I'm not sure if it is okay to increase the offset to stay above the control, but that's 
+something for tomorrow.
+
+
+**Link to work:** Since I did not check in, just a GIPHY 
+![Screen](http://www.giphy.com/gifs/l3q2FvS4gnKakJMDS)
+
+
 ### Day 10: January 12, 2017
     
 **Today's Progress**: 
