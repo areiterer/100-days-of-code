@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 12: January 14, 2017
+**Today's Progress**: 
+* Solved problem from yesterday - Floating Action Button is on the right spot now
+* Created a custom TabBar for the react-native-scrollable-tab-view with Icons - this one was a little bit tricky first,
+but worked out in the end.
+
+Tomorrow I want to clean the code and check in the current solution. Afterwards I will focus on the add functionality
+and kind of a local data storage.
+
 ### Day 11: January 13, 2017
     
 **Today's Progress**: 
