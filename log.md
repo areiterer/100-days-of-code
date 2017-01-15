@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 13: January 15, 2017
+**Today's Progress**: 
+* Cleaned code from yesterday and commited the progress to GitHub
+* Introduced a simple "API" to temporarily store activities and provide an interface to fetch / add / update activities. 
+(The temporary storage part will be replaced with a permanent local storage soon)
+* Changed "Add activity" scene to provide input fields. These input fields will be replaced by better controls soon to reduce
+the amount of data the user has to type in when adding a new activity.
+
 ### Day 12: January 14, 2017
 **Today's Progress**: 
 * Solved problem from yesterday - Floating Action Button is on the right spot now
