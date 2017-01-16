@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 13: January 15, 2017
+### Day 14: January 15, 2017
 **Today's Progress**: 
 * Replaced the temporary storage with AsyncStorage - which is the official module for a simple permanent key/value storage. 
 I used [react-native-storage](https://github.com/sunnylqm/react-native-storage) for it, which I thought was the best wrapper for my requirements.
