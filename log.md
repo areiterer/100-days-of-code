@@ -2,6 +2,20 @@
 
 ### Day 13: January 15, 2017
 **Today's Progress**: 
+* Replaced the temporary storage with AsyncStorage - which is the official module for a simple permanent key/value storage. 
+I used [react-native-storage](https://github.com/sunnylqm/react-native-storage) for it, which I thought was the best wrapper for my requirements.
+
+**Thoughts**: After some self introduced problems I got it running - well you should read the docs carefully before making
+assumptions of how things work. Over all I spent some time to find a good wrapper for the AsyncStorage. It provides functionality
+to save/update, fetch and remove items from the key/value store. The reason why I chose this library was, that it doesn't only
+store the data within defined keys, but also stores additional IDs. This way you can fetch just one item out of the list instead
+of fetching the whole stringified array and parse the respective item out of it.
+
+**Link to work**: [Wolo on GitHub](https://github.com/areiterer/wolo)
+
+
+### Day 13: January 15, 2017
+**Today's Progress**: 
 * Cleaned code from yesterday and commited the progress to GitHub
 * Introduced a simple "API" to temporarily store activities and provide an interface to fetch / add / update activities. 
 (The temporary storage part will be replaced with a permanent local storage soon)
