@@ -17,7 +17,7 @@ project and made the changes so that I am able to use it.
 **Link to work**: I did not finish the work on the design yet, I will do the tidy up tomorrow. At the moment the StyleSheets and styles ess and are
 quite a mess and scattered all over the place. But as a proof for my work, here is a Screenshot:
 
-![Statistics Screen](img/DesignStatistic.png=350x639)
+![Statistics Screen](img/DesignStatistic.png =350x639)
 
 ### Day 15: January 17, 2017
 **Today's Progress**: 
