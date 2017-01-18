@@ -1,7 +1,24 @@
 # 100 Days Of Code - Log
 
+### Day 16: January 18, 2017
+**Today's Progress**: 
+* Added support for Icon.ToolbarAndroid from [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
+* Introduced the toolbar to the AddActivity scene and removed the buttons for Add and Cancel.
+* Added module [react-native-percentage-circle](https://github.com/JackPu/react-native-percentage-circle) for the statistics scene
+* Built a mock scene to get a feeling for the look of the app (and as a preparation for styling).
+* Use icon set [MaterialDesignCommunity](https://materialdesignicons.com/) with the help of react-native-vector-icons
+* Found a suitable [color pallete](https://www.materialpalette.com/blue-grey/lime) for the app and began to style it.
 
-### Day 15: January 16, 2017
+* Forked [react-native-percentage-circle](https://github.com/JackPu/react-native-percentage-circle) because it sets the
+background color in the middle of the circle automatically to white - at the moment I copied the control directly into my 
+project and made the changes so that I am able to use it.
+
+
+**Link to work**: I did not finish the work on the design yet, I will do the tidy up tomorrow. At the moment the StyleSheets and styles ess and are
+quite a mess and scattered all over the place. But as a proof for my work, here is a Screenshot:
+![Statistics Screen](img/DesignStatistic.png)
+
+### Day 15: January 17, 2017
 **Today's Progress**: 
 * Replaced TextInputs for date and activity type with DatePicker and <Picker /> to provide a better user experience
 * Began to clean up the AddActivity scene and added a little bit of styling
@@ -9,7 +26,7 @@
 **Link to work**: [Wolo on GitHub](https://github.com/areiterer/wolo)
 
 
-### Day 14: January 15, 2017
+### Day 14: January 16, 2017
 **Today's Progress**: 
 * Replaced the temporary storage with AsyncStorage - which is the official module for a simple permanent key/value storage. 
 I used [react-native-storage](https://github.com/sunnylqm/react-native-storage) for it, which I thought was the best wrapper for my requirements.
