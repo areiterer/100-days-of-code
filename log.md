@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-### Day 15: January 16, 2017
+### Day 15: January 17, 2017
 **Today's Progress**: 
 * Replaced TextInputs for date and activity type with DatePicker and <Picker /> to provide a better user experience
 * Began to clean up the AddActivity scene and added a little bit of styling
@@ -9,7 +9,7 @@
 **Link to work**: [Wolo on GitHub](https://github.com/areiterer/wolo)
 
 
-### Day 14: January 15, 2017
+### Day 14: January 16, 2017
 **Today's Progress**: 
 * Replaced the temporary storage with AsyncStorage - which is the official module for a simple permanent key/value storage. 
 I used [react-native-storage](https://github.com/sunnylqm/react-native-storage) for it, which I thought was the best wrapper for my requirements.
