@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 17: January 19, 2017
+**Today's Progress**: 
+* Improved styling for other scenes than Statistics/Goals
+* Did some slight refactoring, added master data like action types into the api to get a central point to fetch data
+* fixed a bug when selecting the date
+* Created the pull request which adds functionality to change the inside color of the circle for [react-native-percentage-circle](https://github.com/JackPu/react-native-percentage-circle) 
+
+**Link to work**: 
+* [See Wolo in action](http://www.giphy.com/gifs/l3q2GnLvx5C0ze3lu)
+* [Wolo on GitHub](https://github.com/areiterer/wolo)
+
 ### Day 16: January 18, 2017
 **Today's Progress**: 
 * Added support for Icon.ToolbarAndroid from [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
