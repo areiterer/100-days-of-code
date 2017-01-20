@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### Day 18: January 20, 2017
+**Today's Progress**: 
+* Fixed a bug in the circle percentage component, which appeared when you put in a percentage less than 50 percent.
+
+**Link to work**: 
+* [react-native-percentage-circle](https://github.com/areiterer/react-native-percentage-circle)
+
 ### Day 17: January 19, 2017
 **Today's Progress**: 
 * Improved styling for other scenes than Statistics/Goals
