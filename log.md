@@ -1,5 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 19: January 22, 2017
+**Today's Progress**: 
+* Added functionality to set new goals
+* Refactored the Components, did some splitting
+* Built the functionality to calculate the percentage - this is not finished yet, will commit tomorrow
+
+**Link to work**: 
+* [Wolo on GitHub](https://github.com/areiterer/wolo)
+
 ### Day 18: January 20, 2017
 **Today's Progress**: 
 * Fixed a bug in the circle percentage component, which appeared when you put in a percentage less than 50 percent.
