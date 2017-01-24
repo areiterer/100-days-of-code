@@ -1,4 +1,12 @@
 # 100 Days Of Code - Log
+### Day 20: January 23, 2017
+**Today's Progress**: 
+* Did some major refactoring on the Statistics Component (and Components below)
+* Added functionality to delete goals and activiites
+
+**Link to work**: 
+* [Wolo on GitHub](https://github.com/areiterer/wolo)
+
 
 ### Day 19: January 22, 2017
 **Today's Progress**: 
