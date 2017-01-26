@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+### Day 23: January 26, 2017
+**Today's Progress**: 
+* Did some codewars 
+* FreeCodeCamp Algorithm Challenges
+* Planning & Requirements analysis for the next side project.
+
+
 ### Day 22: January 25, 2017
 **Today's Progress**: 
 * Did some codewars 
