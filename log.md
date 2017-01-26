@@ -1,9 +1,12 @@
 # 100 Days Of Code - Log
+### Day 22: January 25, 2017
+**Today's Progress**: 
+* Did some codewars 
 
 ### Day 21: January 24, 2017
 **Today's Progress**: 
 * Moved Wolo to a private repository (sorry for that)
-* Started requirements analysis for my next side project: A contact management app. 
+* Started requirements analysis for my next side project: (A contact management app.?) 
 
 ### Day 20: January 23, 2017
 **Today's Progress**: 
