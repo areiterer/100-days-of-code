@@ -1,4 +1,10 @@
 # 100 Days Of Code - Log
+### Day 24: January 27, 2017
+**Today's Progress**: 
+* Further requirement analysis and spec writing for the next app
+* Created boilerplate for a demo app to practice registration/login with ReactJS and FeathersJS
+* Recherche about Authentication / Registration&Login Flows 
+
 ### Day 23: January 26, 2017
 **Today's Progress**: 
 * Did some codewars 
