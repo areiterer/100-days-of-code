@@ -1,4 +1,10 @@
 # 100 Days Of Code - Log
+### Day 26: January 29, 2017
+**Today's Progress**: 
+* Prepared Backend to support Signup and Login
+* Added a service to serve demo data only to authorized users 
+* Learned about router redirecting (e.g. after Login / Sign up)
+* Preparation to introduce redux to the react app
 
 ### Day 25: January 28, 2017
 **Today's Progress**: 
