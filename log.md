@@ -1,4 +1,24 @@
 # 100 Days Of Code - Log
+### Day 27: January 30, 2017
+**Today's Progress**: 
+* Introduce redux to react-auth-demo
+* Create actions for login / logout
+* Refactor components
+
+**Thoughts**: Today was a good day. I could refresh my knowledge about [redux](https://github.com/reactjs/redux), put it in the demo app
+and connect the wires. Also I put a little effort in cleaning up my codebase. 
+
+At this moment the functionality of the demo application includes logon / logoff and a page which is
+only displayed to logged on users. Tomorrow I want to 
+* add an action for the sign up procedure
+* develop a ErrorMessage component to display error messages. Also I have to add some functionality to handle errors - 
+I didn't consider this for now.
+
+
+**Link to work**: 
+* [react-auth-demo](https://github.com/areiterer/react-auth-demo)
+* [feathers-demo](https://github.com/areiterer/feathers-demo)
+
 ### Day 26: January 29, 2017
 **Today's Progress**: 
 * Prepared Backend to support Signup and Login
