@@ -1,4 +1,8 @@
 # 100 Days Of Code - Log
+### Day 28: January 31, 2017
+**Today's Progress**: 
+* Worked on a PR for [login-flow](https://github.com/mxstbr/login-flow)
+
 ### Day 27: January 30, 2017
 **Today's Progress**: 
 * Introduce redux to react-auth-demo
