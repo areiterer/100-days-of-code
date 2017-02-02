@@ -1,4 +1,14 @@
 # 100 Days Of Code - Log
+### Day 29: January 31, 2017
+**Today's Progress**: 
+* Still working on the PR for [login-flow](https://github.com/mxstbr/login-flow). Basic functionality is finished - some
+code cleanup and styling is still necessary.
+* Modified a wordpress template for a friend
+
+**Thoughts**: At the moment it's hard to find the time and the concentration for the challenge.
+I may reduce the effort a little bit for the next days to get my brain free and keep up the work.
+
+
 ### Day 28: January 31, 2017
 **Today's Progress**: 
 * Worked on a PR for [login-flow](https://github.com/mxstbr/login-flow)
