@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
-### Day 29: January 31, 2017
+### Day 30: February 4, 2017
+**Today's Progress**: 
+* Finished the PR for [login-flow](https://github.com/mxstbr/login-flow).
+* Transformed registration functionality to redux actions (react-auth-demo)
+
+**Link to work**: 
+* [Pull Request for login-flow](https://github.com/mxstbr/login-flow/pull/30)
+* [react-auth-demo](https://github.com/areiterer/react-auth-demo)
+
+
+### Day 29: February 2, 2017
 **Today's Progress**: 
 * Still working on the PR for [login-flow](https://github.com/mxstbr/login-flow). Basic functionality is finished - some
 code cleanup and styling is still necessary.
