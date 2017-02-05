@@ -1,4 +1,16 @@
 # 100 Days Of Code - Log
+### Day 31: February 5, 2017
+**Today's Progress**: 
+* Introduced [react-notifications]() to the auth-demo
+* Refactoring and code cleanup
+* Renamed the auth-demo to react-feathers-boilerplate
+
+**Thoughts**:
+Today I found out, that everything I had done for the react-auth-demo is reusable for future projects. Since I kept it as clean as possible, it can be used as a boilerplate for new projects. Therefore I decided to transform my auth-demo to a boilerplate, which I want to use for my next projects.
+
+**Link to work**: 
+* [react-feathers-boilerplate](https://github.com/areiterer/react-feathers-boilerplate)
+
 ### Day 30: February 4, 2017
 **Today's Progress**: 
 * Finished the PR for [login-flow](https://github.com/mxstbr/login-flow).
