@@ -2,7 +2,7 @@
 ### Day 32: February 5, 2017
 **Today's Progress**: 
 * Learned how to deploy and operate a NodeJS backend with [PM2](http://pm2.keymetrics.io)
-* Built a verification service for new users (email verification) for the [feathers-demo]() - will check this in as soon as it is finished.
+* Built a verification service for new users (email verification) for the [feathers-demo](github.com/areiterer/feathers-demo) - will check this in as soon as it is finished.
 
 ### Day 31: February 5, 2017
 **Today's Progress**: 
