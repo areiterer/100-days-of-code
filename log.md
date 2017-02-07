@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
-### Day 32: February 5, 2017
+### Day 33: February 7, 2017
+**Today's Progress**: 
+* Worked on the react-feathers-boilerplate: Started to change the Login route to support email verification and other possible actions like "Password reset", "Resend Mail Verification", "Change email address", etc.
+
+### Day 32: February 6, 2017
 **Today's Progress**: 
 * Learned how to deploy and operate a NodeJS backend with [PM2](http://pm2.keymetrics.io)
 * Built a verification service for new users (email verification) for the [feathers-demo](github.com/areiterer/feathers-demo) - will check this in as soon as it is finished.
