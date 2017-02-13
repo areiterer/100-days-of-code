@@ -1,4 +1,8 @@
 # 100 Days Of Code - Log
+### Day 34: February 13, 2017
+**Today's Progress**: 
+* Did some refactoring and bugfixing on the mail-verification of react-feathers-boilerplate. There is still much to do on the client side regarding the general flow of the verification process / resending of the verification mail / etc.
+
 ### Day 33: February 7, 2017
 **Today's Progress**: 
 * Worked on the react-feathers-boilerplate: Started to change the Login route to support email verification and other possible actions like "Password reset", "Resend Mail Verification", "Change email address", etc.
