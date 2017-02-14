@@ -1,4 +1,18 @@
 # 100 Days Of Code - Log
+### Day 35: February 14, 2017
+**Today's Progress**: 
+* Finished refactoring the login page - now it should be able to handle different actions like "verify", "resendVerify", etc.
+* If a user has not verified his email address, he is not allowed to log in.
+* Worked on the "resend verification mail" routine. I got the UI and the (redux-)actions but I'm struggeling with the backend. Somehow the authManagement-Service of FeathersJS behaves different than I thought. I am expecting a plain object with the user data (which works when calling the notifier by myself from a hook after a new user is created). If the service route is called from the outside and authManagement comese into play, I get something much bigger. It contains the data of my user, but it is nested in a lot of crap. 
+
+**Plans for tomorrow**: 
+I want to finish this by tomorrow, so that after registration, a user receives an email to verify the email address. Also, if a user tries to log in without having verified his email address, he should be able to re-send the verification mail.
+
+**Resources**: I use the following resources to build the verification part between backend and frontend:
+* [FeathersJS Docs - Authentication/Management](https://docs.feathersjs.com/v/auk/authentication/management.html)
+* [How to set up email verification in FeathersJS](https://medium.com/@codingfriend/how-to-setup-email-verification-in-feathersjs-72ce9882e744)
+* [How to set up email verification in FeathersJS - Client Side](https://medium.com/@codingfriend/how-to-setup-email-verification-in-feathersjs-2-client-side-6082ce0da55e)
+
 ### Day 34: February 13, 2017
 **Today's Progress**: 
 * Did some refactoring and bugfixing on the mail-verification of react-feathers-boilerplate. There is still much to do on the client side regarding the general flow of the verification process / resending of the verification mail / etc.
