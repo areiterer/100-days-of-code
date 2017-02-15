@@ -1,4 +1,15 @@
 # 100 Days Of Code - Log
+
+### Day 36: February 15, 2017
+**Today's Progress**: 
+* Today I finished the email verification / resend email verification part and checked everything in.
+* Also I read about PM2 configuration, so that I can use environment variables on the production environment.
+
+**Link to work**: 
+* [react-feathers-boilerplate](https://github.com/areiterer/react-feathers-boilerplate)
+* [feathers-demo](https://github.com/areiterer/feathers-demo)
+
+
 ### Day 35: February 14, 2017
 **Today's Progress**: 
 * Finished refactoring the login page - now it should be able to handle different actions like "verify", "resendVerify", etc.
