@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 37: February 16, 2017
+**Today's Progress**: 
+* Completed the PM2 configuration for the backend
+* Added a loading indicator to the frontend
+* Fixed my web server which threw a 404 error as soon as you navigated directly to a link (a .htaccess modification did the work)
+
+**Link to work**: 
+* [react-feathers-boilerplate](https://github.com/areiterer/react-feathers-boilerplate)
+* [feathers-demo](https://github.com/areiterer/feathers-demo)
+* [TRY IT LIVE](www.reiterer.lederhaas.st)
+
+
 ### Day 36: February 15, 2017
 **Today's Progress**: 
 * Today I finished the email verification / resend email verification part and checked everything in.
