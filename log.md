@@ -1,4 +1,13 @@
 # 100 Days Of Code - Log
+### Day 38: February 17, 2017
+**Today's Progress**: 
+* refactored the ui (moved from bootstrap to [react-bootstrap](https://react-bootstrap.github.io) and [react-router-bootstrap](https://github.com/react-bootstrap/react-router-bootstrap)
+* made changes to make the frontend more mobile friendly
+* fixed some bugs in the work flow
+
+**Link to work**: 
+* [react-feathers-boilerplate](https://github.com/areiterer/react-feathers-boilerplate)
+* [TRY IT LIVE](www.reiterer.lederhaas.st)
 
 ### Day 37: February 16, 2017
 **Today's Progress**: 
