@@ -1,4 +1,13 @@
 # 100 Days Of Code - Log
+### Day 40: February 19, 2017
+**Today's Progress**: 
+* Working on the auto-login after the account verification… I got some problems with generating the token within a feathersjs hook.
+
+### Day 39: February 18, 2017
+**Today's Progress**: 
+* recherche about how to authenticate a user from the backend and send the generated token to the frontend. I need this to automatically sign in a user after he verifies his account.
+
+
 ### Day 38: February 17, 2017
 **Today's Progress**: 
 * refactored the ui (moved from bootstrap to [react-bootstrap](https://react-bootstrap.github.io) and [react-router-bootstrap](https://github.com/react-bootstrap/react-router-bootstrap)
