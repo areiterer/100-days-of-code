@@ -1,4 +1,8 @@
 # 100 Days Of Code - Log
+### Day 41: February 20, 2017
+**Today's Progress**: 
+* Found a few good articles about progressive web apps and did a little recherche. I'm thinking of creating a small app to prove and test what I read. 
+
 ### Day 40: February 19, 2017
 **Today's Progress**: 
 * Working on the auto-login after the account verification… I got some problems with generating the token within a feathersjs hook.
