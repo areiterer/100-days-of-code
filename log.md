@@ -1,4 +1,9 @@
 # 100 Days Of Code - Log
+### Day 42: February 22, 2017
+**Today's Progress**: 
+* Recherche and Tutorial Project for [Scrapy](https://realpython.com/blog/python/web-scraping-with-scrapy-and-mongodb/)
+
+
 ### Day 41: February 20, 2017
 **Today's Progress**: 
 * Found a few good articles about progressive web apps and did a little recherche. I'm thinking of creating a small app to prove and test what I read. 
