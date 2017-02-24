@@ -1,7 +1,19 @@
 # 100 Days Of Code - Log
+
+### Day 44: February 24, 2017
+* Learned how to follow links and handle paging
+
+### Day 43: February 23, 2017
+**Today's Progress**: 
+* Scraping easy content with [Scrapy](https://scrapy.org/)
+
 ### Day 42: February 22, 2017
 **Today's Progress**: 
-* Recherche and Tutorial Project for [Scrapy](https://realpython.com/blog/python/web-scraping-with-scrapy-and-mongodb/)
+* Recherche and Tutorial Project for [Scrapy](https://scrapy.org/)
+* Wrote my own Spider for a different web site to see if I can do it on my own.
+
+**Resources**: 
+* [Tutorial to scrape StackOverflow Questions](https://realpython.com/blog/python/web-scraping-with-scrapy-and-mongodb/)
 
 
 ### Day 41: February 20, 2017
