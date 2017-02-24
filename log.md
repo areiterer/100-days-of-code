@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 44: February 24, 2017
-* Learned how to follow links and handle paging
+* Learned how to follow links and handle paging with [Scrapy](https://scrapy.org/)
 
 ### Day 43: February 23, 2017
 **Today's Progress**: 
